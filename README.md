@@ -33,8 +33,11 @@ The images contain variations in:
 
 The dataset is organized by individual/class before being processed.
 
-> **Note:** The dataset is not included in this repository due to its size.
 
+> **Note:** The dataset is not included in this repository due to its size.
+### Dataset Source
+
+[Smart Attendance Dataset – Kaggle](https://www.kaggle.com/datasets/iashiqul/smart-attendance-dataset)
 ---
 
 ## 🖼️ Image Enhancement Pipeline
