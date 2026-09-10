@@ -195,7 +195,7 @@ drive.mount('/content/drive')
 ```text
 ├── README.md
 ├── Prepare_Data.ipynb
-├── Enhancement_and_CNN.ipynb
+├── Enhancement_and_CNNـ.ipynb
 └── paper/
     └── research_paper.pdf
 ```
