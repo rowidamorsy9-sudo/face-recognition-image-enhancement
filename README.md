@@ -193,18 +193,9 @@ drive.mount('/content/drive')
 ## 📁 Repository Structure
 
 ```text
-face-recognition-image-enhancement/
-│
 ├── README.md
 ├── Prepare_Data.ipynb
 ├── Enhancement_and_CNN.ipynb
-│
-├── results/
-│   ├── original_vs_enhanced.png
-│   ├── confusion_matrix_before.png
-│   ├── confusion_matrix_after.png
-│   └── accuracy_comparison.png
-│
 └── paper/
     └── research_paper.pdf
 ```
